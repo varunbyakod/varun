@@ -1,0 +1,5 @@
+t=input()
+r=complex(t)
+print(r.real,r.imag)
+print(abs(r))
+print(r.conjugate())
